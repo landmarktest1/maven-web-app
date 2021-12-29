@@ -1,1 +1,2 @@
-# maven-web-app is a test app designed for testing ci/cd using jenkins
+# maven-web-app is an app designed for testing ci/cd using jenkins.
+It utilizes github webhook to trigger builds in jenkins.
